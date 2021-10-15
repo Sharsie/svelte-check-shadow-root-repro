@@ -1,0 +1,13 @@
+# Visual Studio Code
+.vscode
+
+/node_modules/
+/public/build/
+
+.DS_Store
+desktop.ini
+
+# Dev setup
+.direnv
+.envrc
+default.nix

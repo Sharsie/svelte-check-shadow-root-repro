@@ -1,0 +1,26 @@
+{
+  "name": "svelte-check-shadow-root-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "check": "svelte-check --tsconfig ./tsconfig.json",
+    "tsc": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharsie/svelte-check-shadow-root-repro.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sharsie/svelte-check-shadow-root-repro/issues"
+  },
+  "homepage": "https://github.com/Sharsie/svelte-check-shadow-root-repro#readme",
+  "devDependencies": {
+    "@tsconfig/svelte": "^2.0.1",
+    "svelte": "^3.43.2",
+    "svelte-check": "^2.2.7",
+    "typescript": "^4.4.4"
+  }
+}
